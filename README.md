@@ -32,7 +32,7 @@ Usually this will simply amount to not doing things people object to when around
 That said, in the absence of personal knowledge that an exception would be warranted, a sensible default is to act as you would when trying to be polite in a public social setting among strangers that you wish to be on good terms with.
 These are some reasonable rules of thumb:
 
-* Don't use slurs or epithets, especially ones that reference the categoies mentioned in the Safe-space definition, if there is any chance their use will be poorly received by those around you.
+* Don't use slurs or epithets, especially ones that reference the categories mentioned in the Safe-space definition, if there is any chance their use will be poorly received by those around you.
   Reclamatory speech is fine as long as it is clear that everyone around appreciates it as such.
 
 * Refer to people by their preferred names and pronouns.
